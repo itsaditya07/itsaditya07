@@ -1,4 +1,4 @@
-- 👋 Hello there its aditya singh here.
+- 👋 Hello there, its aditya singh here!
 - 👀 I’m interested in programming langauages that helps me in ANDROID APP DEVELOPMENT and BIG DATA
 - 🌱 I’m currently learning the backend and scripting programming language like JAVA and JAVASCRIPT/PHP.
 - 💞️ I’m looking to collaborate on project on JAVA on BIG DATA and development of app.
